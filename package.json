@@ -1,0 +1,11 @@
+{
+  "name": "income-statment-tracking",
+  "packageManager": "yarn@3.5.0",
+  "private": true,
+  "scripts": {
+    "dev:back": "yarn workspace incomestatment-backend dev"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
