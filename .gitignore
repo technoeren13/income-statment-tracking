@@ -105,3 +105,6 @@ dist
 
 # uncomment this line
 /.pnp.*
+
+packages/*/.yarn
+packages/*/node_modules
